@@ -1,0 +1,76 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="$USER_HOME$/.pyenv/versions/anaconda3-5.0.0/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-5.0.0/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-5.0.0/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-5.0.0/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-5.0.0/lib/python3.6/site-packages/aeosa" type="simple" />
+            <root url="file://$USER_HOME$/Workspace/unity/ml-agents/ml-agents-envs" type="simple" />
+            <root url="file://$USER_HOME$/Workspace/unity/ml-agents/ml-agents" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-5.0.0/lib/python3.6/site-packages/pip-19.2.2-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.pyenv/versions/anaconda3-5.0.0/lib/python3.6/site-packages/torchvision-0.2.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.2/python_stubs/851825777" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 (ssh://koki@gpcl-gpu213:22/home/koki/.pyenv/shims/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="ssh://koki@gpcl-gpu212:22/home/koki/.pyenv/shims/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="gpcl-gpu212" PORT="22" USERNAME="koki" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="true" INTERPRETER_PATH="/home/koki/.pyenv/shims/python" HELPERS_PATH="/home/koki/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-993102239/-1946913581" remote-root="/home/koki/.pyenv/versions/anaconda3-4.2.0/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-993102239/1953872786" remote-root="/home/koki/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-993102239/-423213961" remote-root="/home/koki/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-993102239/1399004141" remote-root="/home/koki/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages/Sphinx-1.4.6-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-993102239/setuptools-27.2.0-py3.5.egg" remote-root="/home/koki/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-639265598/-1946913581" remote-root="/home/koki/.pyenv/versions/anaconda3-4.2.0/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-639265598/1953872786" remote-root="/home/koki/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/plat-linux" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-639265598/-423213961" remote-root="/home/koki/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-639265598/1399004141" remote-root="/home/koki/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages/Sphinx-1.4.6-py3.5.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-639265598/setuptools-27.2.0-py3.5.egg" remote-root="/home/koki/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<code_scheme name="Default" version="173">
+  <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <Python>
+    <option name="BLANK_LINES_BEFORE_FIRST_METHOD" value="1" />
+    <option name="BLANK_LINE_AT_FILE_END" value="false" />
+  </Python>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="79" />
+  </codeStyleSettings>
+</code_scheme>
